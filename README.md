@@ -49,6 +49,19 @@ Just use `CTRL`+`F` to find your files.
 ![2021-08-25 06 10 06 drive google com c4cf7359b68b](https://user-images.githubusercontent.com/65538621/130696764-d2cc4b15-f9fa-4deb-8db6-7c527b8af056.png)
 ![2021-08-25_4-40-40](https://user-images.githubusercontent.com/65538621/130697369-e1015637-73a5-4f88-a7b7-d3f7bad13bbd.png)
 
+## Decrypting files as end-user
+You have an encrypted file, and you want to share that encrypted file to someone. That's where `key.bat` comes in.<br>
+
+Before anything else, make sure you edit the parameters in `key.bat` as well.<br>
+The password in `key.bat` MUST be the same as `eslamp.bat`.
+
+Send that encrypted file to someone, then SEPARATELY send `key.bat` in a secure channel (`key.bat` is an EXPOSED password).<br>
+You can send them alongside, but it's on your own risk. Try https://wormhole.app
+
+Instruct the end-user to have `key.bat` and the encrypted file in the same directory or folder, then run it.
+
+Oh btw, it auto-deletes. With a surprise at the end ;) Make sure you make copies.
+
 ## Known bugs
 * Won't delete first log. Solution for now: remove it urself lol. I need to study more powershell.
 

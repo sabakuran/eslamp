@@ -16,6 +16,7 @@ Using 7za, it compresses (optional) your files into an archive, encrypting it (a
 * Private file-sharing.
 * Prevent hackers from accessing your files in case of server breaches. (as long as you use a strong password!)
 * Preserving your privacy.
+* Depends on your use case, but might be a good alternative to boxcryptor, cryptomator, axcrypt, or aescrypt.
 
 ## Setting parameters (DO THIS FIRST)
 Open `eslamp.bat` in your text editor of choice (i'll be using [Notepad++](https://notepad-plus-plus.org)).

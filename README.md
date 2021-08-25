@@ -69,6 +69,7 @@ Oh btw, it auto-deletes. With a surprise at the end ;) Make sure you make copies
 ## Planned features
 * Better UI
 * Filelog querying
+* Bug fixes
 * Universal compatibility (bash)
 
 ## License

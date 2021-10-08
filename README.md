@@ -74,4 +74,4 @@ Oh btw, it auto-deletes. With a surprise at the end ;) Make sure you make copies
 
 ## License
 [WTFPL](https://github.com/sabakuran/eslamp/blob/main/LICENSE)<br>
-I don't really care whatever you do with it. Improve it, fork it, steal it, up to you. It's messy code anyways.
+I don't really care whatever you do with it. Improve it, steal it, sell it, claim it as your own, up to you. It's messy code anyways.
